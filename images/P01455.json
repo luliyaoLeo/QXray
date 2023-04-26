@@ -1,0 +1,61 @@
+{
+  "version": "0.2.11",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Gun",
+      "text": "",
+      "points": [
+        [
+          422.8757763975155,
+          17.257763975155296
+        ],
+        [
+          604.2422360248447,
+          139.61801242236024
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Gun",
+      "text": "",
+      "points": [
+        [
+          336.54037267080747,
+          245.20807453416148
+        ],
+        [
+          503.6211180124223,
+          344.5869565217391
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Screwdriver",
+      "text": "",
+      "points": [
+        [
+          373.18633540372673,
+          165.70496894409936
+        ],
+        [
+          523.4968944099378,
+          498.62422360248445
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "P01455.jpg",
+  "imageData": null,
+  "imageHeight": 537,
+  "imageWidth": 806
+}
